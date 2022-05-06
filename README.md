@@ -1,0 +1,2 @@
+# Explicit_Intent_Android
+Create a login application.On Successful login,use explicit intent to second activity display welcome username to the user and a logout button. When user presses logout button, a dialog box with a message "Are you sure you want to exit?" and two buttons "yes or no" should appear to confirm logout. On "yes" button click go to login activity and on "no" stay on same activity.
