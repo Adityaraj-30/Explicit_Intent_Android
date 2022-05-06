@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(MainActivity.this, "Wrong Credentials", Toast.LENGTH_SHORT).show();
                 }
                 if(count>2)
-                    Toast.makeText(MainActivity.this, "Username is Test@1234 and Password is 1234@Tested", Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this, "Username is admin and Password is admin", Toast.LENGTH_LONG).show();
             }
         });
     }
